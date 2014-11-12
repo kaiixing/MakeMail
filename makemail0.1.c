@@ -69,5 +69,6 @@ int main(int argc,char** argv)
 	fclose(FileResult);
 	system("notepad result");
 
+
 	return 0;
 }
